@@ -9,3 +9,6 @@
 - Destructuring [Read](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
 - Parameter Defaults [Read](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
 - Rest/Spread [Read]()
+
+### React Roadmap
+- ![React Roadmap](https://files.slack.com/files-pri/T02CWK499-F01QLJQHM8A/react-learnings-map.png)
